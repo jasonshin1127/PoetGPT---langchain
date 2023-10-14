@@ -1,5 +1,5 @@
 # PoetGPT---langchain
-PoetGPT - langchain
+PoetGPT - langchain (API Deactivated)
 
 link: https://poetgpt.streamlit.app/
 
